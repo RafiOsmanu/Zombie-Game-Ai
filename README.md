@@ -2,4 +2,5 @@
 
 Check the Powerpoint for project information.
 
-![Zombie AI Agent Survival](https://github.com/RafiOsmanu/Zombie-Game-Ai/raw/main/assets/104839344/0efcd822-8465-4e32-a35f-8d15d6243b64.png)
+![image](https://github.com/RafiOsmanu/Zombie-Game-Ai/assets/104839344/6908a7d5-758c-429e-9fd1-86f9c19bbc5e)
+
